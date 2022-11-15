@@ -16,7 +16,7 @@ Best case: Aradığımız sayının dizinin en başında olması.
 
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
-## 1 İnserion sort türüne göre aşamaları yazınız. 
+## 1 İnsertion sort türüne göre aşamaları yazınız. 
 ### 1. Aşama
 - Dizinin ilk elemanı sağındaki ikinci elemanla kıyaslanır. 22<27 olduğu için sıralama aynı kalır.
 1. [22,27,16,2,18,6]
